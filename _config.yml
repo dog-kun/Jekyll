@@ -92,7 +92,11 @@ comments:
     repo: # <gh-username>/<repo>
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
-  giscus:
+  giscus:data-repo="dog-kun/Jekyll"
+        data-repo-id="R_kgDOLI1seg"
+        data-category="Comments"
+        data-category-id="DIC_kwDOLI1ses4CcpZq"
+        data-mapping="pathname"
     repo: # <gh-username>/<repo>
     repo_id:
     category:
